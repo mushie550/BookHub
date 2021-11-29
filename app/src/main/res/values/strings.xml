@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favourites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_app_fragment">About App Fragment</string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="action_sort">Sort</string>
+    <string name="musharraf_shaikh">Musharraf Shaikh</string>
+    <string name="number">+91-7507762005</string>
+    <string name="musharraf_gmail_com">musharrafshaikh550@gmail.com</string>
+    <string name="pune_maharashtra">Pune, Maharashtra</string>
+    <string name="bookhub">BookHub</string>
+    <string name="_1_what_is_bookhub_app">1) What is BookHub App?</string>
+    <string name="description">BookHub is an application which contains description of some books, it also shows you the rating and value of the book</string>
+    <string name="why">2) Who developed this app?</string>
+    <string name="reason">This app is developed by Musharraf Shaikh as a project</string>
+</resources>
